@@ -1,6 +1,9 @@
 # Byte-compiled / optimized / DLL files
 venv
+windows_10_alex_pem.pem
+encrypted.pem
 windows_10_alex.ppk
+private_key.ppk
 __pycache__/
 *.py[cod]
 *$py.class
